@@ -1,3 +1,5 @@
 estakk1;estakk1estakk1
 estakk2;estakk2estakk2
 estakk3;estakk3estakk3
+
+ладно
